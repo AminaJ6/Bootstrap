@@ -6,4 +6,9 @@ body{
      border: 1px;
     border-color: rgb(60, 185, 116);
     margin-top: 50px;
+    margin-bottom: 50px;
+}
+.row
+{
+    margin-bottom: 50px;
 }
