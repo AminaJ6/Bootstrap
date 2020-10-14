@@ -1,13 +1,8 @@
-logo
-{
-background-color: smoke white;
+body{
+    margin: 70px;
 }
-header
+.container
 {
-    background-color: smoke white;
-}
-
-row
-{
-    border-color: #aaaaaa;
+     border: 1px;
+    border-color: rgb(60, 185, 116);
 }
